@@ -257,7 +257,7 @@ export const QuantitativeIndicators_Form: React.FC<Props> = ({
           />
 
           {/* VARIABLES */}
-          <Grid minWidth="353px">
+          <Grid>
             <Typography text="DEFINICIÓN DE VARIABLES" variant="h5" />
 
             <ActionButtons
